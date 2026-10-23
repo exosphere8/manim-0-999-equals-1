@@ -38,7 +38,9 @@ Artist: https://incompetech.com/
 
 ## Video
 
-Watch the finished Short: [Add YouTube link after publishing]
+Watch the finished YouTube Short:
+
+[**Why 0.999... Is Exactly Equal to 1?**](https://youtube.com/shorts/ufmQJknCtDw)
 
 ## Purpose
 
